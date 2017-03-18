@@ -1,5 +1,5 @@
 # minecard
-  - 1次元のマインクラフトです。
+  - 1次元のマインスイーパです。
 
 # 実行方法
   - ビルド `g++ minecard minecard.cpp -std=c++11`
